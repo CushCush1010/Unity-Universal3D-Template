@@ -5,3 +5,6 @@ Hello! This project is my template for all unity projects, and useful baseline p
 * Cinemachine
 * A README.md Template for projects (TBD)
 * more to come...
+
+## Package Download (Instead of Repository Clone)
+Download: *nothing here yet :(*
